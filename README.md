@@ -6,5 +6,6 @@ It can be used for finding the most used words in a language by adding .pdf e-bo
 
 It reads the .pdf files, cleans the words from punctuation, converts to lowercase and splits the words. Then it saves the list of the words in json format. Lastly it reads the json file counts the words and shows most used words or plots it in a bar plot.
 
-An example bar plot:
+An example bar plot:  
+
 ![most-used-10-words](/images/plot_en.png)
